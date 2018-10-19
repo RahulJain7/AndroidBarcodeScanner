@@ -1,0 +1,9 @@
+#:import ZBarCam zbarcam
+BoxLayout:
+    orientation: 'vertical'
+    ZBarCam:
+        id: zbarcam
+    Button:
+        size_y: 20
+        size_hint_y: None
+        text: ", ".join([str(symbol.data) for symbol in zbarcam.symbols])

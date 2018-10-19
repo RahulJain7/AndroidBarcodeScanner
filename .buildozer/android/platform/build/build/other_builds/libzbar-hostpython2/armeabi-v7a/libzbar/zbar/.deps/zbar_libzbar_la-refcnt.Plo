@@ -1,0 +1,18 @@
+zbar/zbar_libzbar_la-refcnt.lo: zbar/refcnt.c zbar/refcnt.h \
+ include/config.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/assert.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/android/api-level.h
+
+zbar/refcnt.h:
+
+include/config.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/assert.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/android/api-level.h:

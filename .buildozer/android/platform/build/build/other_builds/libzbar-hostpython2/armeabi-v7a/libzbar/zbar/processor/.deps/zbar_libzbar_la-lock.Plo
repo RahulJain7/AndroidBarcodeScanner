@@ -1,0 +1,188 @@
+zbar/processor/zbar_libzbar_la-lock.lo: zbar/processor/lock.c \
+ zbar/processor.h include/config.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/inttypes.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdint.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/_types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/android/api-level.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/unistd.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/posix_types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/stddef.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/compiler.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/posix_types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/kernel.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/select.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/time.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/time.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/signal.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/internal_types.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/limits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/syslimits.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/page.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/string.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/malloc.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/signal.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/siginfo.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysconf.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/capability.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pathconf.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdlib.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/alloca.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/strings.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/memory.h \
+ include/zbar.h zbar/error.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/stdio.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/errno.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/errno.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/errno.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/errno.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/errno-base.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/assert.h \
+ zbar/thread.h zbar/event.h zbar/mutex.h zbar/timer.h \
+ /home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/time.h
+
+zbar/processor.h:
+
+include/config.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/inttypes.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdint.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdint.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stddef.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/_types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/_wchar_limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/android/api-level.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/unistd.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/posix_types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/stddef.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/compiler.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/posix_types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/kernel.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysmacros.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/select.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/time.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/time.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/signal.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/syslimits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/internal_types.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/machine/limits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/syslimits.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/page.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/string.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/malloc.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/signal.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/signal.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/sigcontext.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/siginfo.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/sys/sysconf.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/capability.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/pathconf.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/stdlib.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/alloca.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/strings.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/memory.h:
+
+include/zbar.h:
+
+zbar/error.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include-fixed/stdio.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/toolchains/arm-linux-androideabi-4.8/prebuilt/linux-x86_64/lib/gcc/arm-linux-androideabi/4.8/include/stdarg.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/errno.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/linux/errno.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm/errno.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/errno.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/asm-generic/errno-base.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/assert.h:
+
+zbar/thread.h:
+
+zbar/event.h:
+
+zbar/mutex.h:
+
+zbar/timer.h:
+
+/home/rahul/.buildozer/android/platform/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/time.h:
